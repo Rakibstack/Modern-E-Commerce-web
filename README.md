@@ -28,69 +28,7 @@ A premium, modern e-commerce frontend built with React, Tailwind CSS, and Framer
 - 🖼️ Lazy loading images with loading states
 - ♿ Accessible color contrast and semantic HTML
 
-## 🚀 Getting Started
-
-### Prerequisites
-- Node.js (v16 or higher)
-- npm or yarn
-
-### Installation
-
-1. Install dependencies:
-```bash
-npm install
-```
-
-2. Start the development server:
-```bash
-npm run dev
-```
-
-3. Open your browser and navigate to `http://localhost:5173`
-
-### Build for Production
-
-```bash
-npm run build
-```
-
-Preview production build:
-```bash
-npm run preview
-```
-
-## 📁 Project Structure
-
-```
-src/
-├── components/          # Reusable UI components
-│   ├── Navbar.jsx      # Sticky navigation with search
-│   ├── Footer.jsx      # Footer with links and newsletter
-│   ├── ProductCard.jsx # Product card with animations
-│   └── SkeletonCard.jsx # Loading skeleton
-├── pages/              # Page components
-│   ├── Home.jsx        # Landing page
-│   ├── Products.jsx    # Product listing with filters
-│   ├── ProductDetail.jsx # Single product view
-│   ├── Cart.jsx        # Shopping cart
-│   └── Wishlist.jsx    # Saved products
-├── context/            # React Context for state
-│   ├── CartContext.jsx # Cart state management
-│   └── WishlistContext.jsx # Wishlist state
-├── data/               # Mock data
-│   └── products.json   # Product catalog
-├── App.jsx             # Main app component
-├── main.jsx            # Entry point
-└── index.css           # Global styles & utilities
-```
-
-## 🎨 Design System
-
-### Colors
-- **Primary**: Blue (500-600) to Purple (500-600) gradients
-- **Background**: Dark slate (900-950) with gradients
-- **Text**: White and slate shades for hierarchy
-- **Accents**: Blue, purple, pink for CTAs and highlights
+#
 
 ### Components
 - **Glass Cards**: `backdrop-blur-xl` with subtle borders
@@ -106,18 +44,6 @@ src/
 - **Framer Motion** - Animation library (via CSS animations)
 - **Lucide React** - Icon library
 - **Vite** - Build tool and dev server
-
-## 📦 Key Dependencies
-
-```json
-{
-  "react": "^18.2.0",
-  "react-router-dom": "^6.20.0",
-  "tailwindcss": "^3.3.6",
-  "lucide-react": "^0.294.0",
-  "vite": "^5.0.8"
-}
-```
 
 ## 🎯 Features Showcase
 
@@ -142,27 +68,6 @@ src/
 - Skeleton loading states
 - Optimized re-renders with proper state management
 - CSS-based animations for better performance
-
-## 🎨 Customization
-
-### Changing Colors
-Edit `tailwind.config.js` to modify the color palette:
-
-```js
-theme: {
-  extend: {
-    colors: {
-      primary: { /* your colors */ }
-    }
-  }
-}
-```
-
-### Adding Products
-Edit `src/data/products.json` to add or modify products.
-
-### Styling
-Global styles and utilities are in `src/index.css`.
 
 ## 📝 License
 
