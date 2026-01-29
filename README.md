@@ -1,6 +1,8 @@
 # LuxeStore - Modern E-Commerce Frontend
 
-Live Link: https://modern-e-commerce-alpha.vercel.app/
+Live Link: https://modern-e-commerce-alpha.vercel.app/  
+
+
 
 A premium, modern e-commerce frontend built with React, Tailwind CSS, and Framer Motion. This project showcases advanced UI/UX design with smooth animations, glassmorphism effects, and a complete shopping experience.
 
@@ -79,4 +81,4 @@ Built with ❤️ as a modern e-commerce frontend showcase.
 
 ---
 
-**Note**: This is a frontend-only project. No backend or authentication is implemented. All data is stored in localStorage and mock JSON files.
+**Note**: This is a frontend-only project. No backend or authentication is implemented. All data is stored in localStorage and mock JSON files..
