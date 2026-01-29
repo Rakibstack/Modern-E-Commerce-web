@@ -1,5 +1,7 @@
 # LuxeStore - Modern E-Commerce Frontend
 
+Live Link: 
+
 A premium, modern e-commerce frontend built with React, Tailwind CSS, and Framer Motion. This project showcases advanced UI/UX design with smooth animations, glassmorphism effects, and a complete shopping experience.
 
 ## ✨ Features
