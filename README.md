@@ -1,6 +1,6 @@
 # LuxeStore - Modern E-Commerce Frontend
 
-Live Link: 
+Live Link: https://modern-e-commerce-alpha.vercel.app/
 
 A premium, modern e-commerce frontend built with React, Tailwind CSS, and Framer Motion. This project showcases advanced UI/UX design with smooth animations, glassmorphism effects, and a complete shopping experience.
 
@@ -31,12 +31,6 @@ A premium, modern e-commerce frontend built with React, Tailwind CSS, and Framer
 - ♿ Accessible color contrast and semantic HTML
 
 #
-
-### Components
-- **Glass Cards**: `backdrop-blur-xl` with subtle borders
-- **Buttons**: Gradient backgrounds with hover effects
-- **Inputs**: Glass effect with focus states
-- **Animations**: Fade-in, slide-up, scale-in effects
 
 ## 🛠️ Technologies Used
 
